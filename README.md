@@ -13,7 +13,7 @@
 -->
 
 
-## Sumin Lee 👋
+## Sumin Lee 👋 
 
 <table>
   <tr>
@@ -48,7 +48,15 @@
 </table>
 <br>
 
-#### 🎓 Education
+### 🎓 Education
+* `2020.03~` Bachelor of Computer Science, Yonsei University
+* `2022.03~` Bachelor of Cognitive Science, Yonsei University (Dual Degree)
+<br>
+
+### 💻 Work Experience
+* `2021.03~2022.06` Likelion X Yonsei 9th (IT Entrepreneurship Conference)
+* `2022.01~2023.06` YAI 9th (Yonsei AI Club)
+* `2023.01~` Intern at Yonsei University, Computational Intelligence & Photography Lab
 
 
 
