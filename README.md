@@ -56,7 +56,8 @@
 ### 💻 Work Experience
 * `2021.03~2022.06` Likelion X Yonsei 9th (IT Entrepreneurship Conference)
 * `2022.01~2023.06` YAI 9th (Yonsei AI Club)
-* `2023.01~` Intern at Yonsei University, Computational Intelligence & Photography Lab
+* `2023.01~2023.12` Intern at Yonsei University, Computational Intelligence & Photography Lab
+* `2023.09~` GDSC Yonsei (Google Developer Student Clubs)
 <br>
 
 
